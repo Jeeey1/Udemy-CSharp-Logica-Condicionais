@@ -1,0 +1,14 @@
+c:\Udemy\Curso Logica\Condicionais\Aula2\bin\Debug\net8.0\Aula2.exe
+c:\Udemy\Curso Logica\Condicionais\Aula2\bin\Debug\net8.0\Aula2.deps.json
+c:\Udemy\Curso Logica\Condicionais\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+c:\Udemy\Curso Logica\Condicionais\Aula2\bin\Debug\net8.0\Aula2.dll
+c:\Udemy\Curso Logica\Condicionais\Aula2\bin\Debug\net8.0\Aula2.pdb
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.dll
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.pdb
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+c:\Udemy\Curso Logica\Condicionais\Aula2\obj\Debug\net8.0\ref\Aula2.dll
