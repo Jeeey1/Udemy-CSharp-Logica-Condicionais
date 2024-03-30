@@ -1,0 +1,15 @@
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\bin\Debug\net8.0\1038.exe
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\bin\Debug\net8.0\1038.deps.json
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\bin\Debug\net8.0\1038.runtimeconfig.json
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\bin\Debug\net8.0\1038.dll
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\bin\Debug\net8.0\1038.pdb
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.AssemblyInfoInputs.cache
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.AssemblyInfo.cs
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.csproj.CoreCompileInputs.cache
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.sourcelink.json
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.dll
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\refint\1038.dll
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.pdb
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\1038.genruntimeconfig.cache
+C:\Udemy\Curso Logica\Condicionais\Udemy-CSharp-Logica-Condicionais\Exercícios_BeeCrowd\1038\obj\Debug\net8.0\ref\1038.dll
